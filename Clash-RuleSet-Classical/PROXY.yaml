@@ -70,6 +70,7 @@ payload:
   - DOMAIN-SUFFIX,adobeawards.com
   - DOMAIN-SUFFIX,adobecontent.io
   - DOMAIN-SUFFIX,adobecreativityawards.com
+  - DOMAIN-SUFFIX,adobedc.cn
   - DOMAIN-SUFFIX,adobedc.net
   - DOMAIN-SUFFIX,adobedemo.com
   - DOMAIN-SUFFIX,adobeexchange.com
@@ -521,6 +522,29 @@ payload:
   - DOMAIN-SUFFIX,bldimg.com
   - DOMAIN-SUFFIX,budimg.cn
   - DOMAIN-SUFFIX,bldlive.com
+  ## > Bloomberg
+  - DOMAIN-SUFFIX,bloomberg.co.kr
+  - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-SUFFIX,bloomberg.com.br
+  - DOMAIN-SUFFIX,bloomberg.fm
+  - DOMAIN-SUFFIX,bloomberg.tv
+  - DOMAIN-SUFFIX,bloombergapps.com
+  - DOMAIN-SUFFIX,bloombergarcade.com
+  - DOMAIN-SUFFIX,bloombergbeta.com
+  - DOMAIN-SUFFIX,blpprofessional.com
+  - DOMAIN-SUFFIX,bmia.org
+  - DOMAIN-SUFFIX,bnef.com
+  - DOMAIN-SUFFIX,businessweek.com
+  - DOMAIN-SUFFIX,businessweekmag.com
+  - DOMAIN-SUFFIX,bwbx.io
+  - DOMAIN-SUFFIX,citylab.com
+  - DOMAIN-SUFFIX,gotraffic.net
+  - DOMAIN-SUFFIX,londonmithraeum.com
+  - DOMAIN-SUFFIX,neweconomyforum.com
+  - DOMAIN-SUFFIX,newenergyfinance.com
+  - DOMAIN-SUFFIX,quicktake.video
+  - DOMAIN-SUFFIX,techatbloomberg.com
+  - DOMAIN-SUFFIX,tictoc.video
   ## > BMW
   - DOMAIN-SUFFIX,.bmw
   - DOMAIN-SUFFIX,approvedusedbmw.com
@@ -1258,6 +1282,19 @@ payload:
   ## > Bootstrap
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,getbootstrap.com
+  ## > BrightCove
+  - DOMAIN-SUFFIX,bcove.video
+  - DOMAIN-SUFFIX,bcovlive-a.akamaihd.net
+  - DOMAIN-SUFFIX,bcovlive.io
+  - DOMAIN-SUFFIX,bcsecure01-a.akamaihd.net
+  - DOMAIN-SUFFIX,bcvp0rtal.com
+  - DOMAIN-SUFFIX,boltdns.net
+  - DOMAIN-SUFFIX,brightcove.com
+  - DOMAIN-SUFFIX,brightcove.imgix.net
+  - DOMAIN-SUFFIX,brightcove.net
+  - DOMAIN-SUFFIX,brightcove.services
+  - DOMAIN-SUFFIX,brightcovecdn.com
+  - DOMAIN-SUFFIX,videojs.com
   ## > Buypass
   - DOMAIN-SUFFIX,buypass-ssl.com
   - DOMAIN-SUFFIX,buypass.com
@@ -1849,6 +1886,12 @@ payload:
   ## > Entrust
   - DOMAIN-SUFFIX,entrust.net
   - DOMAIN-SUFFIX,entrustdatacard.com
+  ## > Espn
+  - DOMAIN-SUFFIX,espn.com
+  - DOMAIN-SUFFIX,espn.net
+  - DOMAIN-SUFFIX,espncdn.com
+  - DOMAIN-SUFFIX,espnqa.com
+  - DOMAIN-SUFFIX,watchespn.com
   ## > Facebook
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,fb.me
@@ -1927,6 +1970,9 @@ payload:
   - DOMAIN-SUFFIX,neulion.com
   - DOMAIN-SUFFIX,icntv.xyz
   - DOMAIN-SUFFIX,flzbcdn.xyz
+  ## > FetNet
+  - DOMAIN-SUFFIX,fetnet.net
+  - DOMAIN-SUFFIX,friday.tw
   ## > FlipBoard
   - DOMAIN-SUFFIX,flipboard.com
   - DOMAIN-SUFFIX,flipchina.cn
@@ -1937,6 +1983,32 @@ payload:
   - DOMAIN-SUFFIX,ftchinese.com
   ## > Getcomposer
   - DOMAIN-SUFFIX,getcomposer.org
+  ## > Gettyimages
+  - DOMAIN-SUFFIX,gettyimages.ae
+  - DOMAIN-SUFFIX,gettyimages.at
+  - DOMAIN-SUFFIX,gettyimages.be
+  - DOMAIN-SUFFIX,gettyimages.ca
+  - DOMAIN-SUFFIX,gettyimages.ch
+  - DOMAIN-SUFFIX,gettyimages.co.jp
+  - DOMAIN-SUFFIX,gettyimages.co.nz
+  - DOMAIN-SUFFIX,gettyimages.co.uk
+  - DOMAIN-SUFFIX,gettyimages.com
+  - DOMAIN-SUFFIX,gettyimages.com.au
+  - DOMAIN-SUFFIX,gettyimages.com.br
+  - DOMAIN-SUFFIX,gettyimages.com.mx
+  - DOMAIN-SUFFIX,gettyimages.de
+  - DOMAIN-SUFFIX,gettyimages.dk
+  - DOMAIN-SUFFIX,gettyimages.es
+  - DOMAIN-SUFFIX,gettyimages.fi
+  - DOMAIN-SUFFIX,gettyimages.fr
+  - DOMAIN-SUFFIX,gettyimages.hk
+  - DOMAIN-SUFFIX,gettyimages.ie
+  - DOMAIN-SUFFIX,gettyimages.in
+  - DOMAIN-SUFFIX,gettyimages.it
+  - DOMAIN-SUFFIX,gettyimages.nl
+  - DOMAIN-SUFFIX,gettyimages.no
+  - DOMAIN-SUFFIX,gettyimages.pt
+  - DOMAIN-SUFFIX,gettyimages.se
   ## > Gigabyte
   - DOMAIN-SUFFIX,aorus.com
   - DOMAIN-SUFFIX,aoruszone.cn
@@ -1971,8 +2043,9 @@ payload:
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
   ## >> Npmjs
-  - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npm.community
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
   ## > Gitlab
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.net
@@ -2941,25 +3014,35 @@ payload:
   - DOMAIN-SUFFIX,heroku.com
   - DOMAIN-SUFFIX,herokuapp.com
   - DOMAIN-SUFFIX,herokucdn.com
+  ## > HKedcity
+  - DOMAIN-SUFFIX,edcity.hk
+  - DOMAIN-SUFFIX,hkedcity.net
+  - DOMAIN-SUFFIX,hkreadingcity.net
   ## > HP
   - DOMAIN-SUFFIX,hp.com
   - DOMAIN-SUFFIX,hpstore-china.com
   - DOMAIN-SUFFIX,hpstore.com
   - DOMAIN-SUFFIX,hpstore.corpmerchandise.com
   ## > IBM
-  - DOMAIN-SUFFIX,ibm.com
-  - DOMAIN-SUFFIX,ibm.us
-  - DOMAIN-SUFFIX,ibm.eu
-  - DOMAIN-SUFFIX,s-bluemix.net
-  - DOMAIN-SUFFIX,bluemix.net
+  - DOMAIN-SUFFIX,appdomain.cloud
   - DOMAIN-SUFFIX,bluemix.com
+  - DOMAIN-SUFFIX,bluemix.net
+  - DOMAIN-SUFFIX,ibm
+  - DOMAIN-SUFFIX,ibm.com
+  - DOMAIN-SUFFIX,ibm.eu
+  - DOMAIN-SUFFIX,ibm.net
+  - DOMAIN-SUFFIX,ibm.us
   - DOMAIN-SUFFIX,nic.ibm
+  - DOMAIN-SUFFIX,s-bluemix.net
   - DOMAIN-SUFFIX,s81c.com
+  - DOMAIN-SUFFIX,weather
+  - DOMAIN-SUFFIX,weatherchannel
   ## > Identrust
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,identrust.co.uk
   - DOMAIN-SUFFIX,identrust.net
   ## > IMDB
+  - DOMAIN-SUFFIX,boxofficemojo.com
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,imdb.to
   - DOMAIN-SUFFIX,media-imdb.com
@@ -3316,6 +3399,7 @@ payload:
   - DOMAIN-SUFFIX,lastfm.cn
   - DOMAIN-SUFFIX,bvuno.tk
   - DOMAIN-SUFFIX,lastfmpresents.com
+  - DOMAIN,last.us11.list-manage.com
   - DOMAIN,lastfm-img2.akamaized.net
   ## > LastPass
   - DOMAIN-SUFFIX,lastpass.com
@@ -4291,12 +4375,13 @@ payload:
   - DOMAIN-SUFFIX,secom.co.jp
   - DOMAIN-SUFFIX,secomtrust.net
   ## > Sectigo
-  - DOMAIN-SUFFIX,sectigo.com
   - DOMAIN-SUFFIX,enterprisessl.com
   - DOMAIN-SUFFIX,hackerguardian.com
   - DOMAIN-SUFFIX,instantssl.com
   - DOMAIN-SUFFIX,optimumssl.com
   - DOMAIN-SUFFIX,positivessl.com
+  - DOMAIN-SUFFIX,sectigo.com
+  - DOMAIN-SUFFIX,usertrust.com
   ## > Sharethis
   - DOMAIN-SUFFIX,sharethis.com
   ## > Shopee
@@ -4311,6 +4396,15 @@ payload:
   - DOMAIN-SUFFIX,shopee.vn
   - DOMAIN-SUFFIX,shopeemobile.com
   - DOMAIN-SUFFIX,shp.ee
+  ## > Shopify
+  - DOMAIN-SUFFIX,myshopify.com
+  - DOMAIN-SUFFIX,shop.app
+  - DOMAIN-SUFFIX,shopify.com
+  - DOMAIN-SUFFIX,shopify.dev
+  - DOMAIN-SUFFIX,shopifycdn.com
+  - DOMAIN-SUFFIX,shopifycloud.com
+  - DOMAIN-SUFFIX,shopifystatus.com
+  - DOMAIN-SUFFIX,shopifysvc.com
   ## > Signal
   - DOMAIN-SUFFIX,signal.org
   ## > Slack
@@ -4523,6 +4617,8 @@ payload:
   - DOMAIN-SUFFIX,telegramdownload.com
   - DOMAIN-SUFFIX,telesco.pe
   - DOMAIN-SUFFIX,graph.org
+  - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,org.telegram.messenger
   ## > Telegram CIDR
   - IP-CIDR,91.108.4.0/22,no-resolve
   - IP-CIDR,91.108.8.0/22,no-resolve
@@ -5033,6 +5129,16 @@ payload:
   - DOMAIN-SUFFIX,wikileaks.org
   ## > Windy
   - DOMAIN-SUFFIX,windy.com
+  ## > WIX
+  - DOMAIN-SUFFIX,editorx.com
+  - DOMAIN-SUFFIX,parastorage.com
+  - DOMAIN-SUFFIX,wix-code.com
+  - DOMAIN-SUFFIX,wix.com
+  - DOMAIN-SUFFIX,wixanswers.com
+  - DOMAIN-SUFFIX,wixapps.net
+  - DOMAIN-SUFFIX,wixmp.com
+  - DOMAIN-SUFFIX,wixsite.com
+  - DOMAIN-SUFFIX,wixstatic.com
   ## > Wordpress
   - DOMAIN-SUFFIX,videopress.com
   - DOMAIN-SUFFIX,w.org
@@ -5161,6 +5267,13 @@ payload:
   - DOMAIN-SUFFIX,zeeentertainment.com
   - DOMAIN-SUFFIX,zeenews.com
   - DOMAIN-SUFFIX,zeenews-fonts.s3.amazonaws.com
+  ## > Zendesk
+  - DOMAIN-SUFFIX,outbound.io
+  - DOMAIN-SUFFIX,zdassets.com
+  - DOMAIN-SUFFIX,zdusercontent.com
+  - DOMAIN-SUFFIX,zendesk.com
+  - DOMAIN-SUFFIX,zndsk.com
+  - DOMAIN-SUFFIX,zopim.com
   ## > Zoho
   - DOMAIN-SUFFIX,zoho.com
   - DOMAIN-SUFFIX,zohomerchandise.com
@@ -6140,7 +6253,6 @@ payload:
   - DOMAIN-SUFFIX,blogtd.org
   - DOMAIN-SUFFIX,bloodshed.net
   - DOMAIN-SUFFIX,bloomberg.cn
-  - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,bloomberg.de
   - DOMAIN-SUFFIX,bloombergview.com
   - DOMAIN-SUFFIX,bloomfortune.com
@@ -6226,7 +6338,6 @@ payload:
   - DOMAIN-SUFFIX,businessinsider.com
   - DOMAIN-SUFFIX,businessinsider.com.au
   - DOMAIN-SUFFIX,businesstoday.com.tw
-  - DOMAIN-SUFFIX,businessweek.com
   - DOMAIN-SUFFIX,busu.org
   - DOMAIN-SUFFIX,busytrade.com
   - DOMAIN-SUFFIX,buugaa.com
@@ -6234,7 +6345,6 @@ payload:
   - DOMAIN-SUFFIX,buzzhand.net
   - DOMAIN-SUFFIX,buzzorange.com
   - DOMAIN-SUFFIX,bvpn.com
-  - DOMAIN-SUFFIX,bwbx.io
   - DOMAIN-SUFFIX,bwgyhw.com
   - DOMAIN-SUFFIX,bwh1.net
   - DOMAIN-SUFFIX,bwsj.hk
@@ -7244,7 +7354,6 @@ payload:
   - DOMAIN-SUFFIX,freexinwen.com
   - DOMAIN-SUFFIX,freeyellow.com
   - DOMAIN-SUFFIX,freeyoutubeproxy.net
-  - DOMAIN-SUFFIX,friday.tw
   - DOMAIN-SUFFIX,frienddeck.com
   - DOMAIN-SUFFIX,frienddy.com
   - DOMAIN-SUFFIX,friendfeed-media.com
@@ -7373,7 +7482,6 @@ payload:
   - DOMAIN-SUFFIX,getsync.com
   - DOMAIN-SUFFIX,gettoby.com
   - DOMAIN-SUFFIX,gettrials.com
-  - DOMAIN-SUFFIX,gettyimages.com
   - DOMAIN-SUFFIX,getuploader.com
   - DOMAIN-SUFFIX,gfbv.de
   - DOMAIN-SUFFIX,gfgold.com.hk
@@ -10393,7 +10501,6 @@ payload:
   - DOMAIN-SUFFIX,usc.edu
   - DOMAIN-SUFFIX,usembassy.gov
   - DOMAIN-SUFFIX,userstyles.org
-  - DOMAIN-SUFFIX,usertrust.com
   - DOMAIN-SUFFIX,usfk.mil
   - DOMAIN-SUFFIX,usgs.gov
   - DOMAIN-SUFFIX,usma.edu
