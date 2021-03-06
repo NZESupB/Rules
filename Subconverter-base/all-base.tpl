@@ -14,6 +14,9 @@ external-controller: {{ local.clash.api_port}}
 
 secret: ''
 #interface-name: en0
+profile:
+  # open tracing exporter API
+  tracing: true
 {% if exists("request.clash.dns") %}
 {% if request.clash.dns == "tap" %}
 #interface-name: WLAN
@@ -136,12 +139,16 @@ dns:
     - 223.5.5.5
     - 119.29.29.29
     - https://doh.pub/dns-query
-    - https://cdn-doh.ssnm.xyz/dns-query
+    - https://dns.cfiec.net/dns-query
     - https://dns.alidns.com/dns-query
-    - https://cloudflare-dns.com/dns-query
-#    - https://dns.google/dns-query
-    - https://doh.opendns.com/dns-query
+    - https://i.233py.com/dns-query
     - https://dns.twnic.tw/dns-query
+    - https://dns-unfiltered.adguard.com/dns-query
+    - https://cdn-doh.ssnm.xyz/dns-query
+    - https://doh.opendns.com/dns-query
+    - https://doh.opendns.com
+#    - https://cloudflare-dns.com/dns-query
+#    - https://dns.google/dns-query
 #    - https://dns.quad9.net/dns-query
 #    - https://doh.qis.io/dns-query
 #    - https://doh.powerdns.org
@@ -149,26 +156,24 @@ dns:
 #    - tcp://119.29.107.85:9090
 #    - https://doh.dns.sb/dns-query
 #    - https://dns.rubyfish.cn/dns-query
-#    - https://sdns.233py.com/dns-query
-#    - https://edns.233py.com/dns-query
 #    - tls://cloudflare-dns.com:853
 #    - tls://dns.google:853
 #    - tls://dns-tls.qis.io:853
   fallback:
-#    - https://dns.alidns.com/dns-query
     - https://cdn-doh.ssnm.xyz/dns-query
+    - https://dns.233py.com/dns-query
     - https://dns.twnic.tw/dns-query
     - https://dns.quad9.net/dns-query
     - https://cloudflare-dns.com/dns-query
     - https://dns.google/dns-query
     - https://doh.qis.io/dns-query
     - https://doh.opendns.com/dns-query
+    - https://doh.opendns.com
     - https://doh.powerdns.org
 #    - tcp://1.1.1.1
+#    - https://dns.alidns.com/dns-query
 #    - https://doh.dns.sb/dns-query
 #    - https://dns.rubyfish.cn/dns-query
-#    - https://sdns.233py.com/dns-query
-#    - https://edns.233py.com/dns-query
 #    - tls://cloudflare-dns.com:853
 #    - tls://dns.google:853
 #    - tls://dns-tls.qis.io:853

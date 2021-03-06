@@ -242,6 +242,7 @@ payload:
   - DOMAIN-SUFFIX,amazonalexavoxcon.com
   - DOMAIN-SUFFIX,amazonauthorinsights.com
   - DOMAIN-SUFFIX,amazonaws-china.com
+  - DOMAIN-SUFFIX,amazonaws.co.uk
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,amazonaws.tv
   - DOMAIN-SUFFIX,amazonbusiness.cn
@@ -1295,6 +1296,8 @@ payload:
   - DOMAIN-SUFFIX,brightcove.services
   - DOMAIN-SUFFIX,brightcovecdn.com
   - DOMAIN-SUFFIX,videojs.com
+  - DOMAIN-SUFFIX,zencdn.net
+  - DOMAIN-SUFFIX,zencoder.com
   ## > Buypass
   - DOMAIN-SUFFIX,buypass-ssl.com
   - DOMAIN-SUFFIX,buypass.com
@@ -1523,6 +1526,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflaretest.com
   - DOMAIN-SUFFIX,one.one.one
   - DOMAIN-SUFFIX,one.one.one.one
+  - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,trycloudflare.com
   - DOMAIN-SUFFIX,videodelivery.net
   - DOMAIN-SUFFIX,warp.plus
@@ -3014,6 +3018,13 @@ payload:
   - DOMAIN-SUFFIX,heroku.com
   - DOMAIN-SUFFIX,herokuapp.com
   - DOMAIN-SUFFIX,herokucdn.com
+  ## > HKBN
+  - DOMAIN-SUFFIX,csifund.org
+  - DOMAIN-SUFFIX,hkbn.com.hk
+  - DOMAIN-SUFFIX,hkbn.net
+  - DOMAIN-SUFFIX,hkbnes.net
+  - DOMAIN-SUFFIX,jos.com
+  - DOMAIN-SUFFIX,speedtest.com.hk
   ## > HKedcity
   - DOMAIN-SUFFIX,edcity.hk
   - DOMAIN-SUFFIX,hkedcity.net
@@ -3321,6 +3332,11 @@ payload:
   - DOMAIN-SUFFIX,xscale.com
   ## >> Barefoot Networks
   - DOMAIN-SUFFIX,barefootnetworks.com
+  ## > Intercom
+  - DOMAIN-SUFFIX,intercom.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomassets.com
+  - DOMAIN-SUFFIX,intercomcdn.com
   ## > IPinfo
   - DOMAIN-SUFFIX,ipinfo.io
   ## > ip-api
@@ -3332,8 +3348,6 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.net
   - DOMAIN-SUFFIX,datalore.io
   - DOMAIN-SUFFIX,kotlinlang.org
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,jsdelivr.com
   ## > Jfrog
   - DOMAIN-SUFFIX,jfrog.com
   - DOMAIN-SUFFIX,jfrog.org
@@ -3342,6 +3356,10 @@ payload:
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jquerymobile.com
   - DOMAIN-SUFFIX,jqueryui.com
+  ## > Jsdelivr
+  - DOMAIN-SUFFIX,esm.run
+  - DOMAIN-SUFFIX,jsdelivr.com
+  - DOMAIN-SUFFIX,jsdelivr.net
   ## > Jwplayer
   - DOMAIN-SUFFIX,jwpcdn.com
   - DOMAIN-SUFFIX,jwplatform.com
@@ -3499,6 +3517,15 @@ payload:
   ## > Lihkg
   - DOMAIN-SUFFIX,lih.kg
   - DOMAIN-SUFFIX,lihkg.com
+  ## > Limelight
+  - DOMAIN-SUFFIX,delvenetworks.com
+  - DOMAIN-SUFFIX,limelight.com
+  - DOMAIN-SUFFIX,lldns.net
+  - DOMAIN-SUFFIX,llnw-trials.com
+  - DOMAIN-SUFFIX,llnw.com
+  - DOMAIN-SUFFIX,llnw.net
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,llnwi.net
   ## > Linguee
   - DOMAIN-SUFFIX,linguee.com
   - DOMAIN-SUFFIX,deepl.com
@@ -3565,7 +3592,9 @@ payload:
   - DOMAIN-SUFFIX,xn--qhrx81fxh2a.xn--55qx5d.hk
   ## > Mega
   - DOMAIN-SUFFIX,mega.co.nz
+  - DOMAIN-SUFFIX,mega.io
   - DOMAIN-SUFFIX,mega.nz
+  - IP-CIDR,66.203.126.0/23,no-resolve
   - IP-CIDR,94.24.36.0/24,no-resolve
   - IP-CIDR,94.24.37.0/24,no-resolve
   - IP-CIDR,185.206.24.0/24,no-resolve
@@ -3573,6 +3602,8 @@ payload:
   - IP-CIDR,185.206.26.0/24,no-resolve
   - IP-CIDR,185.206.27.0/24,no-resolve
   - IP-CIDR6,2a0b:e40:1::/48,no-resolve
+  - IP-CIDR6,2a0b:e40:2::/48,no-resolve
+  - IP-CIDR6,2a0b:e40:3::/48,no-resolve
   - IP-CIDR6,2a0b:e41:1::/48,no-resolve
   - IP-CIDR6,2a0b:e42:1::/48,no-resolve
   - IP-CIDR6,2a0b:e43:1::/48,no-resolve
@@ -3863,16 +3894,25 @@ payload:
   - DOMAIN-SUFFIX,gputechconf.in
   - DOMAIN-SUFFIX,gputechconf.jp
   - DOMAIN-SUFFIX,nvidia.asia
+  - DOMAIN-SUFFIX,nvidia.at
   - DOMAIN-SUFFIX,nvidia.be
   - DOMAIN-SUFFIX,nvidia.ch
   - DOMAIN-SUFFIX,nvidia.cn
+  - DOMAIN-SUFFIX,nvidia.co.at
+  - DOMAIN-SUFFIX,nvidia.co.in
   - DOMAIN-SUFFIX,nvidia.co.jp
   - DOMAIN-SUFFIX,nvidia.co.kr
+  - DOMAIN-SUFFIX,nvidia.co.uk
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,nvidia.com.au
   - DOMAIN-SUFFIX,nvidia.com.br
+  - DOMAIN-SUFFIX,nvidia.com.mx
+  - DOMAIN-SUFFIX,nvidia.com.pe
+  - DOMAIN-SUFFIX,nvidia.com.pl
   - DOMAIN-SUFFIX,nvidia.com.tr
   - DOMAIN-SUFFIX,nvidia.com.tw
+  - DOMAIN-SUFFIX,nvidia.com.ua
+  - DOMAIN-SUFFIX,nvidia.com.ve
   - DOMAIN-SUFFIX,nvidia.cz
   - DOMAIN-SUFFIX,nvidia.de
   - DOMAIN-SUFFIX,nvidia.dk
@@ -3880,16 +3920,26 @@ payload:
   - DOMAIN-SUFFIX,nvidia.eu
   - DOMAIN-SUFFIX,nvidia.fi
   - DOMAIN-SUFFIX,nvidia.fr
+  - DOMAIN-SUFFIX,nvidia.in
   - DOMAIN-SUFFIX,nvidia.it
+  - DOMAIN-SUFFIX,nvidia.jp
   - DOMAIN-SUFFIX,nvidia.lu
+  - DOMAIN-SUFFIX,nvidia.mx
   - DOMAIN-SUFFIX,nvidia.nl
   - DOMAIN-SUFFIX,nvidia.no
   - DOMAIN-SUFFIX,nvidia.pl
   - DOMAIN-SUFFIX,nvidia.ro
   - DOMAIN-SUFFIX,nvidia.ru
   - DOMAIN-SUFFIX,nvidia.se
+  - DOMAIN-SUFFIX,nvidia.tw
+  - DOMAIN-SUFFIX,nvidiaforhp.com
   - DOMAIN-SUFFIX,nvidiagrid.net
   - DOMAIN-SUFFIX,shotwithgeforce.com
+  - DOMAIN-SUFFIX,tegrazone.co
+  - DOMAIN-SUFFIX,tegrazone.co.kr
+  - DOMAIN-SUFFIX,tegrazone.com
+  - DOMAIN-SUFFIX,tegrazone.jp
+  - DOMAIN-SUFFIX,tegrazone.kr
   - DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net
   - DOMAIN-SUFFIX,nvidia.tt.omtrdc.net
   ## > Opera
@@ -4209,6 +4259,37 @@ payload:
   - DOMAIN-SUFFIX,xn--bnq297cix3a.cn
   - DOMAIN-SUFFIX,易付通.cn
   - DOMAIN-SUFFIX,venmo.s3.amazonaws.com
+  ## > PCCW
+  - DOMAIN-SUFFIX,pccw.com
+  - DOMAIN-SUFFIX,pccwglobal.com
+  - DOMAIN-SUFFIX,pccwsolutions.com
+  ## >> HKT
+  - DOMAIN-SUFFIX,1010.com.hk
+  - DOMAIN-SUFFIX,esmarthealth.com
+  - DOMAIN-SUFFIX,hkcsl.com
+  - DOMAIN-SUFFIX,hkt-enterprise.com
+  - DOMAIN-SUFFIX,hkt-eye.com
+  - DOMAIN-SUFFIX,hkt.com
+  - DOMAIN-SUFFIX,hkteducation.com
+  - DOMAIN-SUFFIX,hktpremier.com
+  - DOMAIN-SUFFIX,hktshop.com
+  - DOMAIN-SUFFIX,netvigator.com
+  - DOMAIN-SUFFIX,theclub.com.hk
+  - DOMAIN-SUFFIX,uhub.com
+  ## >> NOW
+  - DOMAIN-SUFFIX,now-ashare.com
+  - DOMAIN-SUFFIX,now-tv.com
+  - DOMAIN-SUFFIX,now.com
+  - DOMAIN-SUFFIX,now.com.hk
+  - DOMAIN-SUFFIX,nowe.com
+  - DOMAIN-SUFFIX,nowe.hk
+  ## >> VIU
+  - DOMAIN-SUFFIX,viu.com
+  - DOMAIN-SUFFIX,viu.now.com
+  - DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
+  - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
+  ## >> MOOV
+  - DOMAIN-SUFFIX,moov.hk
   ## > Phantomjs
   - DOMAIN-SUFFIX,phantomjs.org
   ## > Picsee
@@ -4245,11 +4326,22 @@ payload:
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.nl
   ## > Pixiv
+  - DOMAIN-SUFFIX,pixiv.me
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pixiv.org
   - DOMAIN-SUFFIX,pixiv.co.jp
   - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-SUFFIX,fanbox.cc
+  ## > Pixnet (痞客邦)
+  - DOMAIN-SUFFIX,pimg.tw
+  - DOMAIN-SUFFIX,pixanalytics.com
+  - DOMAIN-SUFFIX,pixfs.net
+  - DOMAIN-SUFFIX,pixinsight.com.tw
+  - DOMAIN-SUFFIX,pixnet.cc
+  - DOMAIN-SUFFIX,pixnet.net
+  - DOMAIN-SUFFIX,pixnet.pro
+  - DOMAIN-SUFFIX,pixnet.tw
+  - DOMAIN-SUFFIX,pixplug.in
   ## > Protonmail
   - DOMAIN-SUFFIX,protonmail.ch
   - DOMAIN-SUFFIX,protonmail.com
@@ -4422,6 +4514,22 @@ payload:
   - DOMAIN-SUFFIX,sling.com
   - DOMAIN-SUFFIX,movenetworks.com
   - DOMAIN-SUFFIX,movetv.com
+  ## > SmarTone
+  - DOMAIN-SUFFIX,barkadahansasmartone.com
+  - DOMAIN-SUFFIX,healthreach.hk
+  - DOMAIN-SUFFIX,hkcircleapp.com
+  - DOMAIN-SUFFIX,homephoneplus.com
+  - DOMAIN-SUFFIX,ip73.com
+  - DOMAIN-SUFFIX,s-cashonmobile.com
+  - DOMAIN-SUFFIX,s-rewards.hk
+  - DOMAIN-SUFFIX,sahabatsetiasmartone.com
+  - DOMAIN-SUFFIX,smartone.com
+  - DOMAIN-SUFFIX,smartoneholdings.com
+  - DOMAIN-SUFFIX,smartonerobotics.com
+  - DOMAIN-SUFFIX,smartonesolutions.com.hk
+  - DOMAIN-SUFFIX,smartonesolutions.hk
+  - DOMAIN-SUFFIX,valuegb.com
+  - DOMAIN-SUFFIX,wise-research.com
   ## > Snap
   - DOMAIN-SUFFIX,sc-cdn.net
   - DOMAIN-SUFFIX,snap-dev.net
@@ -4582,6 +4690,39 @@ payload:
   ## > Stackpath
   - DOMAIN-SUFFIX,stackpath.com
   - DOMAIN-SUFFIX,stackpath.dev
+  ## > Starbucks
+  - DOMAIN-SUFFIX,sbux.com.my
+  - DOMAIN-SUFFIX,sbuxcard.com
+  - DOMAIN-SUFFIX,starbucks-stars.com
+  - DOMAIN-SUFFIX,starbucks.ad
+  - DOMAIN-SUFFIX,starbucks.at
+  - DOMAIN-SUFFIX,starbucks.be
+  - DOMAIN-SUFFIX,starbucks.bg
+  - DOMAIN-SUFFIX,starbucks.ca
+  - DOMAIN-SUFFIX,starbucks.ch
+  - DOMAIN-SUFFIX,starbucks.co.id
+  - DOMAIN-SUFFIX,starbucks.co.jp
+  - DOMAIN-SUFFIX,starbucks.co.nz
+  - DOMAIN-SUFFIX,starbucks.co.th
+  - DOMAIN-SUFFIX,starbucks.co.uk
+  - DOMAIN-SUFFIX,starbucks.co.za
+  - DOMAIN-SUFFIX,starbucks.com
+  - DOMAIN-SUFFIX,starbucks.com.ar
+  - DOMAIN-SUFFIX,starbucks.com.bn
+  - DOMAIN-SUFFIX,starbucks.com.cn
+  - DOMAIN-SUFFIX,starbucks.com.co
+  - DOMAIN-SUFFIX,starbucks.com.cy
+  - DOMAIN-SUFFIX,starbucks.com.gr
+  - DOMAIN-SUFFIX,starbucks.com.hk
+  - DOMAIN-SUFFIX,starbucks.com.kh
+  - DOMAIN-SUFFIX,starbucks.com.kz
+  - DOMAIN-SUFFIX,starbucks.com.mx
+  - DOMAIN-SUFFIX,starbucks.com.my
+  - DOMAIN-SUFFIX,starbucks.de
+  - DOMAIN-SUFFIX,starbucks.fr
+  - DOMAIN-SUFFIX,starbucks.ie
+  - DOMAIN-SUFFIX,starbucksathome.com
+  - DOMAIN-SUFFIX,starbucksreserve.com
   ## > Startpage
   - DOMAIN-SUFFIX,startpage.com
   - DOMAIN-SUFFIX,ixquick.com
@@ -4664,6 +4805,39 @@ payload:
   ## > Telekom
   - DOMAIN-SUFFIX,telekom.com
   - DOMAIN-SUFFIX,telekom.de
+  ## > Thomson Reuters (湯森路透)
+  - DOMAIN-SUFFIX,aranzadi.es
+  - DOMAIN-SUFFIX,corepublishingsolutions.com
+  - DOMAIN-SUFFIX,elite.com
+  - DOMAIN-SUFFIX,legaltracker.com
+  - DOMAIN-SUFFIX,livrariart.com.br
+  - DOMAIN-SUFFIX,reutersagency.cn
+  - DOMAIN-SUFFIX,sweetandmaxwell.co.uk
+  - DOMAIN-SUFFIX,thomsonreuters.ca
+  - DOMAIN-SUFFIX,thomsonreuters.cn
+  - DOMAIN-SUFFIX,thomsonreuters.co.jp
+  - DOMAIN-SUFFIX,thomsonreuters.co.kr
+  - DOMAIN-SUFFIX,thomsonreuters.co.nz
+  - DOMAIN-SUFFIX,thomsonreuters.co.uk
+  - DOMAIN-SUFFIX,thomsonreuters.com
+  - DOMAIN-SUFFIX,thomsonreuters.com.ar
+  - DOMAIN-SUFFIX,thomsonreuters.com.au
+  - DOMAIN-SUFFIX,thomsonreuters.com.br
+  - DOMAIN-SUFFIX,thomsonreuters.com.hk
+  - DOMAIN-SUFFIX,thomsonreuters.com.my
+  - DOMAIN-SUFFIX,thomsonreuters.com.pe
+  - DOMAIN-SUFFIX,thomsonreuters.com.sg
+  - DOMAIN-SUFFIX,thomsonreuters.com.tr
+  - DOMAIN-SUFFIX,thomsonreuters.es
+  - DOMAIN-SUFFIX,thomsonreuters.in
+  - DOMAIN-SUFFIX,thomsonreuters.ru
+  - DOMAIN-SUFFIX,thomsonreutersmexico.com
+  - DOMAIN-SUFFIX,tmsnrt.rs
+  - DOMAIN-SUFFIX,tr.com
+  ## >> Reuters (路透社)
+  - DOMAIN-SUFFIX,reuters.com
+  - DOMAIN-SUFFIX,reuters.tv
+  - DOMAIN-SUFFIX,reutersmedia.net
   ## > Trustwave
   - DOMAIN-SUFFIX,trustwave.com
   ## > Tsquare
@@ -4791,14 +4965,20 @@ payload:
   - DOMAIN-SUFFIX,verisigninc.com
   ## > Verizon
   - DOMAIN-SUFFIX,advertising.com
+  - DOMAIN-SUFFIX,static-verizon.com
+  - DOMAIN-SUFFIX,uplynk.com
   - DOMAIN-SUFFIX,verizon.com
   - DOMAIN-SUFFIX,verizon.net
   - DOMAIN-SUFFIX,verizonbusiness.com
+  - DOMAIN-SUFFIX,verizonbusinessfios.com
   - DOMAIN-SUFFIX,verizondigitalmedia.com
+  - DOMAIN-SUFFIX,verizonenterprise.com
+  - DOMAIN-SUFFIX,verizonfios.com
   - DOMAIN-SUFFIX,verizonmedia.com
   - DOMAIN-SUFFIX,verizonwireless.com
   - DOMAIN-SUFFIX,vidible.tv
   - DOMAIN-SUFFIX,vzw.com
+  - DOMAIN-SUFFIX,xo.com
   - DOMAIN-SUFFIX,yourdigitalrebatecenter.com
   ## >> AutoBlog
   - DOMAIN-SUFFIX,autoblog.com
@@ -4814,7 +4994,9 @@ payload:
   - DOMAIN-SUFFIX,aol.de
   - DOMAIN-SUFFIX,aol.fr
   - DOMAIN-SUFFIX,aolcdn.com
+  - DOMAIN-SUFFIX,oath.cloud
   - DOMAIN-SUFFIX,oath.com
+  - DOMAIN-SUFFIX,ouroath.com
   ## >> Techcrunch
   - DOMAIN-SUFFIX,techcrunch.com
   ## >> Yahoo
@@ -9163,7 +9345,6 @@ payload:
   - DOMAIN-SUFFIX,picidae.net
   - DOMAIN-SUFFIX,picturedip.com
   - DOMAIN-SUFFIX,picturesocial.com
-  - DOMAIN-SUFFIX,pimg.tw
   - DOMAIN-SUFFIX,pin-cong.com
   - DOMAIN-SUFFIX,pin6.com
   - DOMAIN-SUFFIX,pinboard.in
@@ -9178,7 +9359,6 @@ payload:
   - DOMAIN-SUFFIX,pixelmator.com
   - DOMAIN-SUFFIX,pixelqi.com
   - DOMAIN-SUFFIX,pixnet.in
-  - DOMAIN-SUFFIX,pixnet.net
   - DOMAIN-SUFFIX,pk.com
   - DOMAIN-SUFFIX,placemix.com
   - DOMAIN-SUFFIX,planetsuzy.org
@@ -9428,8 +9608,6 @@ payload:
   - DOMAIN-SUFFIX,retweeteffect.com
   - DOMAIN-SUFFIX,retweetist.com
   - DOMAIN-SUFFIX,retweetrank.com
-  - DOMAIN-SUFFIX,reuters.com
-  - DOMAIN-SUFFIX,reutersmedia.net
   - DOMAIN-SUFFIX,revleft.com
   - DOMAIN-SUFFIX,revocationcheck.com
   - DOMAIN-SUFFIX,revver.com
@@ -9491,8 +9669,7 @@ payload:
   - DOMAIN-SUFFIX,rxhj.net
   - DOMAIN-SUFFIX,s-cute.com
   - DOMAIN-SUFFIX,s-dragon.org
-  - DOMAIN-SUFFIX,s.gravatar.com
-  - DOMAIN-SUFFIX,s1.nudezz.com
+  - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,s1heng.com
   - DOMAIN-SUFFIX,s1s1s1.com
   - DOMAIN-SUFFIX,s4miniarchive.com

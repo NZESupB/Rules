@@ -413,8 +413,10 @@ DOMAIN-SUFFIX,wowsgame.cn
 DOMAIN-SUFFIX,360wzb.cn
 DOMAIN-SUFFIX,360wzb.com
 ## > 36kr
+DOMAIN-SUFFIX,36dianping.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,36krcdn.com
+DOMAIN-SUFFIX,36krcnd.com
 ## > 3dm
 DOMAIN-SUFFIX,3dmgame.com
 ## > 3type
@@ -4966,6 +4968,14 @@ DOMAIN-SUFFIX,lf126.net
 DOMAIN-SUFFIX,lf127.net
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,yaoluu.com
+## >> 网易卡搭
+DOMAIN-SUFFIX,163kada.com
+DOMAIN-SUFFIX,kada.com
+DOMAIN-SUFFIX,kada163.com
+## >> 网易云加速
+DOMAIN-SUFFIX,163jiasu.com
+DOMAIN-SUFFIX,163nasa.com
+DOMAIN-SUFFIX,ntes53.com
 ## >> 有道
 DOMAIN-SUFFIX,126.fm
 DOMAIN-SUFFIX,163.fm
@@ -5488,6 +5498,7 @@ DOMAIN-SUFFIX,yfdurl20.com
 ## > 云帆加速
 DOMAIN-SUFFIX,cdndns2.cn
 DOMAIN-SUFFIX,cdndns2.net
+DOMAIN-SUFFIX,cdnnodedns.cn
 DOMAIN-SUFFIX,mogecloud.cn
 DOMAIN-SUFFIX,mogecloud.com
 DOMAIN-SUFFIX,mogecloud.net
@@ -5498,6 +5509,7 @@ DOMAIN-SUFFIX,wertalk.com
 DOMAIN-SUFFIX,yfcalc.com
 DOMAIN-SUFFIX,yfcdn.cn
 DOMAIN-SUFFIX,yfcdn.net
+DOMAIN-SUFFIX,yfcloud.com
 DOMAIN-SUFFIX,yfcloud.io
 DOMAIN-SUFFIX,yfcloud.work
 DOMAIN-SUFFIX,yfdts.net
@@ -5510,7 +5522,6 @@ DOMAIN-SUFFIX,yunfancdn.cn
 DOMAIN-SUFFIX,yunfancdn.com
 DOMAIN-SUFFIX,yunfancdn.com.cn
 DOMAIN-SUFFIX,yunfancdn.net
-DOMAIN-SUFFIX,yfcloud.com
 ## >> 云帆Cache
 DOMAIN-SUFFIX,yfcache.cn
 DOMAIN-SUFFIX,yfcache.com
@@ -6408,7 +6419,6 @@ DOMAIN-SUFFIX,anzhixiao.com
 DOMAIN-SUFFIX,anzhuoxs.com
 DOMAIN-SUFFIX,aoyuge.com
 DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,zhuishushenqi.com
 DOMAIN-SUFFIX,yueduyun.com
@@ -6919,7 +6929,6 @@ DOMAIN-SUFFIX,gongxiangcj.com
 DOMAIN-SUFFIX,gongzicp.com
 DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,govtz.com
-DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gree.com
 DOMAIN-SUFFIX,greenxiazai.com
 DOMAIN-SUFFIX,growingio.com
